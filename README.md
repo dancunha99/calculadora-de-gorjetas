@@ -1,2 +1,2 @@
-# pj-calculadora-onebtc
+# calculadora-de-gorjetas
 Calculadora de Gorjetas do OneBitCode
